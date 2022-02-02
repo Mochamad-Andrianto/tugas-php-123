@@ -1,0 +1,23 @@
+body{
+    background-image: url(".");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-header{
+    background-image:linear-gradient(120deg, #cb40fb 1%, #151c38 100%);
+}
+.btn-tos{
+    background-image:linear-gradient(120deg, #cb40fb 1%, #1f2c5d 100%);
+    color: white;
+    box-shadow: 0 0 15px white;
+}
+.btn-tos:hover{
+    border: white;
+    transition: 0.5s;
+   
+    
+}
+.card{
+    background-color: transparent;
+}
